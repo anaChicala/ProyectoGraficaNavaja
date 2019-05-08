@@ -61,6 +61,8 @@
     <Compile Include="Assets\Scripts\cameraMovement.cs" />
     <Compile Include="Assets\Scripts\cubeManager.cs" />
     <Compile Include="Assets\Scripts\cubePieceScr.cs" />
+    <Compile Include="Assets\Scripts\dragAndDrop.cs" />
+    <Compile Include="Assets\Scripts\pullAndPush.cs" />
     <Compile Include="Assets\Scripts\timer.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Windows/Documents/UNI/Grafica/Cubo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
